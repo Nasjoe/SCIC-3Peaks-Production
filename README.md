@@ -221,7 +221,7 @@ Mission du pole et de ses membres :
 - Gestion du matériel de la Scic et mis à disposition par Jonas, From, Vavangart, Komidi, etc...
 - Production et tour de compagnie et de groupe de musique ( tremplins, theatre, cirque )
 
-Anaïs et Lionel semblent vouloir présider ce collège.
+Anaïs, Lionel et Sylvain semblent vouloir diriger ce collège.
 
 
 ### Création d'une SS2I
@@ -230,7 +230,7 @@ La Scic se propose de créer un collège pour les formations informatiques et po
 Seront développé un cloud pour stockage de donnée, des outils de gestions de projet et de budget.
 Et surtout la création, la gestion et la pérennisation de l'outil TiBillet et de sa marque, en partenariat avec l'entreprise GDNA.
 
-Jonas et Nicolas semblent vouloir présider ce collège.
+Jonas et Nicolas semblent vouloir diriger ce collège.
 
 
 ### Les Partenaires bénéficiaires.
