@@ -221,7 +221,7 @@ Mission du pole et de ses membres :
 - Gestion du matériel de la Scic et mis à disposition par Jonas, From, Vavangart, Komidi, etc...
 - Production et tour de compagnie et de groupe de musique ( tremplins, theatre, cirque )
 
-Anaïs semblent vouloir présider ce collège.
+Anaïs et Lionel semblent vouloir présider ce collège.
 
 
 ### Création d'une SS2I
