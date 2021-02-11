@@ -6,9 +6,9 @@ Ce document à pour but de présenter le modèle de la SCIC en première partie,
 
 Partenariats généraux, mais aussi particulier avec l'association des 3Peaks et ses acteurs.
 
-Ceci est un projet, une proposition, ouvert au débat constructif. Pour en débattre, merci de vous connecter sur la plateforme **[communecter](www.communecter.org)**. 
+Ceci est un projet, une proposition, ouvert au débat constructif. Pour en débattre, merci de vous connecter sur la plateforme **communecter**. 
 
-**[Communnecter](www.communecter.org)** nous permet de profiter d'une instance de vote très pratique et ouverte à tous. Vous pouvez proposer des amendements, et des commentaires, tout comme la vrai démocratie dans la vrai vie, mais en mieux !
+**Communnecter** nous permet de profiter d'une instance de vote très pratique et ouverte à tous. Vous pouvez proposer des amendements, et des commentaires, tout comme la vrai démocratie dans la vrai vie, mais en mieux !
   
 Tout les détails sont indiqués à la fin de ce document.
 
@@ -209,7 +209,7 @@ Son rôle sera administratif. Ses missions pourront être :
 - Gestion de trésorerie et relation avec expert comptable
 - Aide à la production d'évènement culturel ( Jazz Festival, etc ... )
 
-Cathy Dumoux semble se proposer pour ce poste.
+Cathy semble se proposer pour ce poste.
 
 ### Gestion du pole production
 
@@ -221,7 +221,7 @@ Mission du pole et de ses membres :
 - Gestion du matériel de la Scic et mis à disposition par Jonas, From, Vavangart, Komidi, etc...
 - Production et tour de compagnie et de groupe de musique ( tremplins, theatre, cirque )
 
-Anaïs LEMOIGNE semble vouloir présider ce collège.
+Anaïs semblent vouloir présider ce collège.
 
 
 ### Création d'une SS2I
@@ -230,7 +230,7 @@ La Scic se propose de créer un collège pour les formations informatiques et po
 Seront développé un cloud pour stockage de donnée, des outils de gestions de projet et de budget.
 Et surtout la création, la gestion et la pérennisation de l'outil TiBillet et de sa marque, en partenariat avec l'entreprise GDNA.
 
-Jonas TURBEAUX et Nicolas Dijoux semblent vouloir présider ce collège.
+Jonas et Nicolas semblent vouloir présider ce collège.
 
 
 ### Les Partenaires bénéficiaires.
