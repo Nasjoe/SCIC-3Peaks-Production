@@ -193,7 +193,7 @@ Un espace a été crée pour l'occasion et est disponible sur ce lien :
 
 Une fois l'utilisateur créé et connecté, vous pourrez rejoindre les discutions via le chat, mais aussi lire et commenter les propositions via la partie nommée "Espace Co".
 
-Je ( Jonas ) me propose de soumettre le texte global a débat, ainsi que de lancer des propositions quand aux devoirs et contre-parties de chaque collèges.
+Le texte global est soumis à débat, ainsi que les propositions quand aux devoirs et contre-parties de chaque collèges.
 
 Cet espace se veut ouvert à tous et constructif. Il sera soumis a la modération.
 
