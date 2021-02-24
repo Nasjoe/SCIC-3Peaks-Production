@@ -6,9 +6,9 @@ Ce document à pour but de présenter le modèle de la SCIC en première partie,
 
 Partenariats généraux, mais aussi particulier avec l'association des 3Peaks et ses acteurs.
 
-Ceci est un projet, une proposition, ouvert au débat constructif. Pour en débattre, merci de vous connecter sur la plateforme **communecter**. 
+Ceci est un projet, une proposition, ouvert au débat constructif. Pour en débattre, merci de vous connecter sur la plateforme **[communecter](www.communecter.org)**. 
 
-**Communnecter** nous permet de profiter d'une instance de vote très pratique et ouverte à tous. Vous pouvez proposer des amendements, et des commentaires, tout comme la vrai démocratie dans la vrai vie, mais en mieux !
+**[Communnecter](www.communecter.org)** nous permet de profiter d'une instance de vote très pratique et ouverte à tous. Vous pouvez proposer des amendements, et des commentaires, tout comme la vrai démocratie dans la vrai vie, mais en mieux !
   
 Tout les détails sont indiqués à la fin de ce document.
 
@@ -118,12 +118,13 @@ Quand on fait le choix de créer une Scic on fait le choix de ne pas décider se
 
 Ce projet de SCIC est une réponse possible et souhaitable à la volonté de professionnaliser une partie des outils et des personnes de l'association des 3Peaks.
 
-Le but principal est de proposer une structure porteuse de projets pour salarier les personnes souhaitant s'y investir.
+Le but principal est de proposer une structure porteuse de projets pour salarier les personnes souhaitant s'y investir, dédiée à l'évolution et au développement d'activités économiques complémentaires permettant de salarier les personnes souhaitant s'y investir.
+
 
 ### Activités
 
 
-Les activités principales portées par la Scic seront :
+Les activités principales portées par la Scic (et intégrées successivement au développement) seront :
 
 - Production d'évènements culturels ( Festival, concerts, ... )
 - Production audiovisuelle ( Live streaming de spectacle vivant, enregistrements studio et live, clips vidéos, résidences artistique, ... )
@@ -200,16 +201,15 @@ Voici quelques une des idées proposées :
 
 ### Primo Salarié.
 
-La Scic se propose de financer un premier salarié à mi-temps évolutif à l'aide de l'argent apporté par les 3Peaks venant du projet TiBillet et des formations dispensées par Jonas et facturée à ADS.
+La Scic se propose de financer un premier salarié à temps partiel ( 104h mensuelles ) évolutif à l'aide de l'argent apporté par les 3Peaks venant du projet TiBillet et des formations dispensées par Jonas et facturée à ADS.
 
-Son rôle sera administratif. Ses missions pourront être :
+Son rôle sera d'ordre principalement administratif. 
+En tant qu'administrateur de projet, ses missions pourront être :
 
 - Organisation et création de la Scic a l'aide de Guillaume Clément.
-- Recherche de financements ( États, collectivités, chambre de commerce et d'industrie, etc ...)
-- Gestion de trésorerie et relation avec expert comptable
-- Aide à la production d'évènement culturel ( Jazz Festival, etc ... )
-
-Cathy semble se proposer pour ce poste.
+- Recherche de financements et de partenariats ( États, collectivités, chambre de commerce et d'industrie, etc ...)
+- Suivi et gestion de budget en relation avec expert comptable.
+- Participation active à la Mise en place et suivi des productions culturelles ( événements,Jazz Festival, etc ... )
 
 ### Gestion du pole production
 
@@ -221,7 +221,6 @@ Mission du pole et de ses membres :
 - Gestion du matériel de la Scic et mis à disposition par Jonas, From, Vavangart, Komidi, etc...
 - Production et tour de compagnie et de groupe de musique ( tremplins, theatre, cirque )
 
-Anaïs, Lionel et Sylvain semblent vouloir diriger ce collège.
 
 
 ### Création d'une SS2I
@@ -230,22 +229,22 @@ La Scic se propose de créer un collège pour les formations informatiques et po
 Seront développé un cloud pour stockage de donnée, des outils de gestions de projet et de budget.
 Et surtout la création, la gestion et la pérennisation de l'outil TiBillet et de sa marque, en partenariat avec l'entreprise GDNA.
 
-Jonas et Nicolas semblent vouloir diriger ce collège.
 
 
 ### Les Partenaires bénéficiaires.
 
 La Scic se propose d'inviter les clients à investir et s'investir dans la Scic qui développe les outils et les activités culturelle dont ils bénéficient directement.
 
-Cela serait la condition pour entrer dans le cadre d'une monnaie commune pour TiBillet par exemple, et donnerais accès 
+Cela pourrait être la condition pour accéder à une monnaie commune pour TiBillet par exemple ?
 
-Pour les mairies, cela les dotera d'un outil de production culturelle dont elle font parfois défaut. (cf. argumentaire de Guillaume Clement )
+Cela doterait les mairies d'un outil de production culturelle qui leur fait souvent défaut. (cf. argumentaire de Guillaume CLEMENT )
 
 
 ### Partenariat 3Peaks
 
-La Scic propose a l'association des 3Peaks de faire partie prenante de ses associés en l'invitant dans le collège des Partenaires particuliers.
+La Scic propose a l'association des 3Peaks  de s'impliquer et s'associer dans cette démarche co-entreprenariale en rejoignant le collège des Partenaires particuliers.
 
+Le partenariat doit être défini communément.
 La Scic s'engage à fournir ses services humain et technique à prix coûtant à l'association.
 En contre partie d'un intéressement au capital ainsi qu'une voix dans l'assemblée générale, les 3Peaks s'engage à fournir (*en usufruit*) son matériel acquis au fil des années ( matériel audio, vidéos, informatique )
 
@@ -264,5 +263,5 @@ GDNA aura un rôle de conseil, de propositions et d'initiatives techniques au c�
 GDNA aura accès en lecture et en écriture au code source de l'outil.
 GDNA sera nommée à chaque utilisation et pourra utiliser les outils de cashless et de billetterie développés par la Scic à des fins commerciales.
 
-En contre partie la Scic propose de gérer la marque TiBillet, sa communication et son développement informatique à travers le collège SS2I.
+En contre partie la Scic propose de gérer la marque TiBillet, pour les aspects de communication  et de développement informatique à travers le collège SS2I.
 
