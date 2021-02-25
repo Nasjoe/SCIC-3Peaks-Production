@@ -10,7 +10,10 @@ Ceci est un projet, une proposition, ouvert au débat constructif. Pour en déba
 
 **[Communnecter](https://www.communecter.org)** nous permet de profiter d'une instance de vote très pratique et ouverte à tous. Vous pouvez proposer des amendements, et des commentaires, tout comme la vrai démocratie dans la vrai vie, mais en mieux !
   
-Tout les détails sont indiqués à la fin de ce document.
+Tout les détails sont indiqués à la fin de ce document : 
+Un espace a été crée pour l'occasion et est disponible sur ce lien :
+[https://www.communecter.org/#@scic3peaksProduction](https://www.communecter.org/#@scic3peaksProduction)
+
 
 ## Vous avez dit une SCIC ?
 
