@@ -6,9 +6,9 @@ Ce document à pour but de présenter le modèle de la SCIC en première partie,
 
 Partenariats généraux, mais aussi particulier avec l'association des 3Peaks et ses acteurs.
 
-Ceci est un projet, une proposition, ouvert au débat constructif. Pour en débattre, merci de vous connecter sur la plateforme **[communecter](www.communecter.org)**. 
+Ceci est un projet, une proposition, ouvert au débat constructif. Pour en débattre, merci de vous connecter sur la plateforme **[communecter](https://www.communecter.org)**. 
 
-**[Communnecter](www.communecter.org)** nous permet de profiter d'une instance de vote très pratique et ouverte à tous. Vous pouvez proposer des amendements, et des commentaires, tout comme la vrai démocratie dans la vrai vie, mais en mieux !
+**[Communnecter](https://www.communecter.org)** nous permet de profiter d'une instance de vote très pratique et ouverte à tous. Vous pouvez proposer des amendements, et des commentaires, tout comme la vrai démocratie dans la vrai vie, mais en mieux !
   
 Tout les détails sont indiqués à la fin de ce document.
 
